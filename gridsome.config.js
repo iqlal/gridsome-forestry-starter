@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteName: "Istiqlal",
+  siteUrl: `https:/istiqlal.now.shm`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "%s - Web",
+  siteDescription: "Istiqlal Portfolio Website",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
