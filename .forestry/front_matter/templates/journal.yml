@@ -37,3 +37,5 @@ fields:
   default: Muhammad Istiqlal
 pages:
 - journal/helloworld.md
+- journal/macos-development-environment.md
+- journal/samlekom.md
