@@ -29,11 +29,11 @@ fields:
     source:
       type: simple
       section: authors
-      file: data/authors/nichlas-w-andersen.json
+      file: ''
     required: true
     options:
-    - Nichlas W. Andersen
+    - Muhammad Istiqlal
   label: Author
-  default: Nichlas W. Andersen
+  default: Muhammad Istiqlal
 pages:
-- journal/macos-development-environment.md
+- journal/helloworld.md
