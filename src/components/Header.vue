@@ -32,6 +32,7 @@ export default {
 <style scoped>
 .header {
     position: relative;
+    color: #ffffff;
     height: 6rem;
     z-index: 10;
 }
