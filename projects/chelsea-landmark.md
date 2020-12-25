@@ -1,12 +1,13 @@
 ---
-date: 2019-05-16
-year: 2019
-title: Banana
+date: 2020-12-25
+year: 2020
+title: Debian 10 Documentation
 category: Identity
 thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
 categories:
-- photography
-- pink
+- server
+- linux
+- debian
 project_bg_color: ''
 project_fg_color: ''
 
